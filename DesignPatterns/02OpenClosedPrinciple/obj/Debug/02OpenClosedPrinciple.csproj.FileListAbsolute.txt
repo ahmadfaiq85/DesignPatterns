@@ -1,0 +1,6 @@
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\02OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\02OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\02OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\02OpenClosedPrinciple\obj\Debug\02OpenClosedPrinciple.csprojResolveAssemblyReference.cache
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\02OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\02OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
