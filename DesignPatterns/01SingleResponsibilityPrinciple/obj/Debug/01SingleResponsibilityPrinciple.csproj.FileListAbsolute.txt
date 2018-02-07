@@ -1,0 +1,6 @@
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\01SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe.config
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\01SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\01SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.pdb
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\01SingleResponsibilityPrinciple\obj\Debug\01SingleResponsibilityPrinciple.csprojResolveAssemblyReference.cache
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\01SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.exe
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\01SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.pdb
