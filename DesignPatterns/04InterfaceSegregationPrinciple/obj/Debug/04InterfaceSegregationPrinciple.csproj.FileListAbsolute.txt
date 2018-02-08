@@ -1,0 +1,6 @@
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\04InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe.config
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\04InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\04InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.pdb
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\04InterfaceSegregationPrinciple\obj\Debug\04InterfaceSegregationPrinciple.csprojResolveAssemblyReference.cache
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\04InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.exe
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\04InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.pdb
