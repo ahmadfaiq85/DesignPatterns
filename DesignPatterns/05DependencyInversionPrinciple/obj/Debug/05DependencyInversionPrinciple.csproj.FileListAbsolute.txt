@@ -1,0 +1,1 @@
+D:\Ahmad Faiq\My Documents\Github\DesignPatterns\DesignPatterns\05DependencyInversionPrinciple\obj\Debug\05DependencyInversionPrinciple.csprojResolveAssemblyReference.cache
